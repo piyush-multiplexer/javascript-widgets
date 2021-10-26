@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/piyush-ezee/javascript-widgets.git"
+    "url": "git+https://github.com/piyush-multiplexer/javascript-widgets.git"
   },
   "keywords": [
     "widgets",
     "javascript-widgets"
   ],
-  "author": "",
+  "author": "piyush-multiplexer <thesourcepedia@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/piyush-ezee/javascript-widgets/issues"
+    "url": "https://github.com/piyush-multiplexer/javascript-widgets/issues"
   },
-  "homepage": "https://github.com/piyush-ezee/javascript-widgets#readme",
+  "homepage": "https://github.com/piyush-multiplexer/javascript-widgets#readme",
   "dependencies": {
     "parcel": "^2.0.0"
   }
