@@ -4,7 +4,8 @@
   "description": "JavaScript Widgets",
   "main": "index.js",
   "scripts": {
-    "run-container": "cp -R widgets/Container/assets dist/assets && parcel serve widgets/Container/index.html"
+    "run-container": "cp -R widgets/Container/assets dist/assets && parcel serve widgets/Container/index.html",
+    "run-chat": "cp -R widgets/Chat/assets dist/assets && parcel serve widgets/Chat/index.html"
   },
   "repository": {
     "type": "git",
