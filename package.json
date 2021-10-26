@@ -1,0 +1,26 @@
+{
+  "name": "javascript-widgets",
+  "version": "1.0.0",
+  "description": "JavaScript Widgets",
+  "main": "index.js",
+  "scripts": {
+    "run-container": "cp -R widgets/Container/assets dist/assets && parcel serve widgets/Container/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piyush-ezee/javascript-widgets.git"
+  },
+  "keywords": [
+    "widgets",
+    "javascript-widgets"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piyush-ezee/javascript-widgets/issues"
+  },
+  "homepage": "https://github.com/piyush-ezee/javascript-widgets#readme",
+  "dependencies": {
+    "parcel": "^2.0.0"
+  }
+}
