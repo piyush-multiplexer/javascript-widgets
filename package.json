@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "run-container": "cp -R widgets/Container/assets dist/assets && parcel serve widgets/Container/index.html",
-    "run-chat": "cp -R widgets/Chat/assets dist/assets && parcel serve widgets/Chat/index.html"
+    "run-chat": "cp -R widgets/Chat/assets dist/assets && parcel serve widgets/Chat/index.html",
+    "build": "parcel build widgets/Container/Container.js"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,7 @@
   },
   "homepage": "https://github.com/piyush-multiplexer/javascript-widgets#readme",
   "dependencies": {
-    "parcel": "^2.0.0"
+    "parcel": "^2.0.0",
+    "vite": "^2.6.13"
   }
 }
